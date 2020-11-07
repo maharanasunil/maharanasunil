@@ -26,12 +26,12 @@ Python | C | POSTGRESQL | Machine Learning | AWS Cloud  | HTML | CSS
  <details>
 <summary>📊 Github Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Sunil Maharana | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maharanasunil&show_icons=true&theme=gotham" alt="Sunil Maharana | Stats" />
 
 </details>
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{maharanasunil}/count.svg)
  
  
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>

@@ -20,7 +20,6 @@ Python | C | POSTGRESQL | Machine Learning | AWS Cloud  | HTML | CSS
 * I am currently learning Machine Learning. 
 * Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: He/him
-* 🏠 Hogwarts House: Griffindor
 
 <table><tr><td valign="top" width="50%">
 
@@ -37,8 +36,8 @@ Python | C | POSTGRESQL | Machine Learning | AWS Cloud  | HTML | CSS
  
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-[twitter]: https://twitter.com/ayushi7rawat
+[twitter]: https://twitter.com/SarcasticSunil_
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/sunil-maharana/
-[Medium]: https://medium.com/@ayushi7rawat
-[Facebook]: https://www.facebook.com/ayushi7rawat
+[Medium]: https://medium.com/@maharanasunil38
+[Facebook]: https://www.facebook.com/sunil.maharana.372/

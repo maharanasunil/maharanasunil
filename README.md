@@ -18,7 +18,7 @@ Python | C | POSTGRESQL | Machine Learning | AWS Cloud  | HTML | CSS
 * Primary coding language: Python.
 * I’m currently working on my portfolio.
 * I am currently learning Machine Learning. 
-* Ask me about anything, I'll be happy to help.
+* Ask me about anything about Python, I'll be happy to help.
 * 😄 Pronouns: He/him
 
 <table><tr><td valign="top" width="50%">

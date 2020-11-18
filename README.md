@@ -1,4 +1,4 @@
-# [Sunil Maharana](https://assignment-1.maharanasunil.repl.co/)
+## [Sunil Maharana](https://assignment-1.maharanasunil.repl.co/)
 Python | C | POSTGRESQL | Machine Learning | AWS Cloud  | HTML | CSS
 
 

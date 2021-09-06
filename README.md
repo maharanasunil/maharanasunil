@@ -1,5 +1,5 @@
 ## [Sunil Maharana](https://assignment-1.maharanasunil.repl.co/)
-Python | C | POSTGRESQL | Machine Learning | AWS Cloud  | HTML | CSS
+Python | C | SQL | Machine Learning | AWS Cloud  | HTML | CSS
 
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]

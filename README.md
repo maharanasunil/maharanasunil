@@ -18,7 +18,7 @@ Python | C | SQL | Machine Learning | AWS Cloud  | HTML | CSS
 * Primary coding language: Python.
 * I’m an Engineering Software Engineer who is enthusiastic about new technologies.
 * I’m currently working on learning to code efficiently (CP) *_* 
-* Ask me about getting started with Python3 :).
+* Ask me about getting started with Python3 :)
 
 <table><tr><td valign="top" width="50%">
 

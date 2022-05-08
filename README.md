@@ -1,42 +1,31 @@
-## [Sunil Maharana](https://assignment-1.maharanasunil.repl.co/)
-Python | C | SQL | Machine Learning | AWS Cloud  | HTML | CSS
+Hi 👋 My name is Sunil Maharana
+===============================
 
+Data Engineer
+-------------
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
-[<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
-<br />
-<hr />
+I am an enthusiastic data engineer who likes to explore big data technologies and implement them in the best way possible. I am an Experienced Hadoop Developer with a demonstrated history of work experience in the banking domain. Skilled in understanding Client requirements and have good experience in completing workflow big data projects from importing files from external systems to saving resultant data sets. Language: Python, Scala, Unix Scripting Big Data: Hadoop, Apache Spark (Core/SQL), Hive, Sqoop Cluster Environment: Cloudera, Hortonworks Scheduling: Automic Cloud: Azure Methodology: Safe Agile Experience in using different ETL tools Data Mining: Hands-on Experience in various data mining algorithms Machine Learning: Hands-on Experience
 
-
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<!-- Namaste 🙏 -->
- <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
- 
-* Primary coding language: Python.
-* I’m an Software Engineer who is enthusiastic about new technologies.
-* I’m currently working on learning to code efficiently (CP) *_* 
-* Ask me about getting started with Python3 :)
-
-<table><tr><td valign="top" width="50%">
-
- <details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maharanasunil&show_icons=true&theme=gotham" alt="Sunil Maharana | Stats" />
-
-</details>
-
-
- ![Visitor Count](https://profile-counter.glitch.me/{maharanasunil}/count.svg)
- 
- 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-[twitter]: https://twitter.com/Maharana_Sunil_
-[gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/sunil-maharana/
-[Medium]: https://medium.com/@maharanasunil38
-[Facebook]: https://www.facebook.com/sunil.maharana.372/
+*   🌍  I'm based in Bangalore, India
+*   ✉️  You can contact me at [maharanasunil38@gmail.com](mailto:maharanasunil38@gmail.com)
+*   🧠  I'm learning Scala with Apache Spark
+*   ⚡  I’m happy to chat, feel free to drop a message :)### Skills<p align="left">
+                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+                                <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/maharanasunil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/sunil-maharana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/maharana_sunil_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/maharanasunil"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=maharanasunil&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/maharanasunil"><img src="https://activity-graph.herokuapp.com/graph?username=maharanasunil&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/maharanasunil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharanasunil&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/maharanasunil/Scala-Practice" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maharanasunil&repo=Scala-Practice&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/maharanasunil/Leetcode-Solutions" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maharanasunil&repo=Leetcode-Solutions&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>### Support Me<a
+                  href="https://www.buymeacoffee.com/maharanasunil"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

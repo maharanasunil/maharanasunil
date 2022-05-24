@@ -8,15 +8,15 @@ I am an enthusiastic data engineer who likes to explore big data technologies an
 
 I am an Experienced Hadoop Developer with a demonstrated history of work experience in the banking domain. 
 
-Language: Python, Scala, Unix Scripting 
-Big Data: Hadoop, Apache Spark (Core/SQL), Hive, Sqoop
-Cluster Environment: Cloudera, Hortonworks
-Scheduling: Automic
-Cloud: Azure
-Methodology: Safe Agile
-Experience in using different ETL tools
-Data Mining: Hands-on Experience in various data mining algorithms
-Machine Learning: Hands-on Experience
+**Language:** Python, Scala, Unix Scripting. 
+**Big Data:** Hadoop, Apache Spark (Core/SQL), Hive, Sqoop.
+**Cluster Environment:** Cloudera, Hortonworks.
+**Scheduling:** Automic.
+**Cloud:** Azure.
+**Methodology:** Safe Agile.
+Experience in using different ETL tools.
+**Data Mining:** Hands-on Experience in various data mining algorithms.
+**Machine Learning:** Hands-on Experience.
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [maharanasunil38@gmail.com](mailto:maharanasunil38@gmail.com)

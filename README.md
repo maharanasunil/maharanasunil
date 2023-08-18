@@ -6,7 +6,7 @@ Data Engineer
 
 I am an enthusiastic data engineer who likes to explore big data technologies and implement them in the best way possible. 
 
-I am an Experienced Big Data Developer with a demonstrated history of work experience in the banking domain. 
+I am an Experienced Big Data Developer with a demonstrated history of work experience in the banking domain and CPG domain (Consumer Packed Goods). 
 
 **Language:** Python, Scala, Unix Scripting. 
 **Big Data:** Hadoop, Apache Spark (Core/SQL), Hive, Sqoop.
